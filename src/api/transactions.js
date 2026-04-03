@@ -1,5 +1,5 @@
-// const BASE_URL = "http://localhost:3000/api/transactions";
-const BASE_URL = "https://finance-dashboard-backend-five.vercel.app/api/transactions";
+const BASE_URL = "http://localhost:3000/api/transactions";
+// const BASE_URL = "https://finance-dashboard-backend-five.vercel.app/api/transactions";
 
 // ✅ GET
 export const fetchTransactions = async () => {
